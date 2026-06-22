@@ -1,0 +1,2 @@
+# 例1: .go 拡張子のファイルを明示的に Go に指定する場合
+hello_test.go hello.go linguist-language=Go
